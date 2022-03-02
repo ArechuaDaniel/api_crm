@@ -1,3 +1,12 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "Daniel Actualizado",
+      "empresa": "Empresa de prueba",
+      "email": "correo@correo.com",
+      "telefono": "0978789089",
+      "notas": "Hola Mundo",
+      "id": 1
+    }
+  ]
 }

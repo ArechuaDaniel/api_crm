@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Daniel",
+      "empresa": "Ceds",
+      "email": "correo@correo.com",
+      "telefono": "0978789089",
+      "notas": "Hola\n",
+      "id": 1
+    },
+    {
+      "nombre": "Daniel Alexander",
+      "empresa": "Cisco",
+      "email": "correo@correo.com",
+      "telefono": "0978789089",
+      "notas": "Hola Mundo",
+      "id": 2
+    }
+  ]
+}
